@@ -7,6 +7,6 @@ A parser for profiling model structures and parameters only with the caffe model
     python ptparser.py -p lenet_train_test.prototxt -w 28 -g 28
 ```
 
-![example](ptparser/example.png "example usage" )
+![example](https://github.com/Robert0812/ptparser/blob/master/example.png "example usage" )
 
     
